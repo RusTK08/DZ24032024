@@ -14,11 +14,11 @@ public class Test {
     System.out.println("\n");
     
     //ПРОВЕРКА НИЖЕ
-    Pair<Integer, String> pair1 = new Pair<>(40, "Hello111");
-    pair1.print();
-    pair1.setFirst(100);
-    pair1.setSecond("World111");
-    pair1.print();
+    // Pair<Integer, String> pair1 = new Pair<>(40, "Hello111");
+    // pair1.print();
+    // pair1.setFirst(100);
+    // pair1.setSecond("World111");
+    // pair1.print();
     
 }
 }
